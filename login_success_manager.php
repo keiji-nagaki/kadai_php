@@ -7,5 +7,14 @@
  <body>
     <h1>ログイン</h1>
     <h2>管理者としてログイン成功しました</h2>
+
+    <div>
+      <a href="todo_txt_read.php" class="inquiry_btn">アンケート結果確認</a>
+    </div>
+      <div>
+      <a href="index.php" class="estimae_btn">ログアウト
+      </a>
+    </div>
  </body>
+
 </html> 
